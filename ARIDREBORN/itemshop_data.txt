@@ -55,7 +55,7 @@ Id: 10512, Name: K249, Selling: 0.00
 Id: 10513, Name: K249 Case, Selling: 0.00
 Id: 10514, Name: Magbox (N249), Selling: 0.00
 Id: 10515, Name: 8x Nightvision Scope, Selling: 1000.00
-Id: 10516, Name: AR Suppressor, Selling: 0.00
+Id: 10516, Name: AR Suppressor, Selling: 250.00
 Id: 10517, Name: Bozar, Selling: 0.00
 Id: 10518, Name: Bozar Magazine, Selling: 0.00
 Id: 10519, Name: DMR Drum Mag, Selling: 200.00
@@ -122,7 +122,7 @@ Id: 10581, Name: Gradic AA Missiles, Selling: 0.00
 Id: 10582, Name: Zolash-GL, Selling: 0.00
 Id: 10583, Name: GRM-40, Selling: 0.00
 Id: 10584, Name: Zolash Wooden Grip, Selling: 450.00
-Id: 10585, Name: AR Suppressor, Selling: 0.00
+Id: 10585, Name: AR Suppressor, Selling: 250.00
 Id: 10586, Name: Bipods, Selling: 500.00
 Id: 10587, Name: Folded Bipods, Selling: 0.00
 Id: 10588, Name: Horizontal Grip, Selling: 500.00
